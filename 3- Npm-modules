@@ -1,0 +1,20 @@
+### NPM modules
+Packages - >
+
+sendgrid - send email using send grid
+bcryptjs - for JWT web token
+cloudinary - To store files on cloudinary
+cors 
+dotenv -to use .env files
+express - use express framework
+express - async - errors - to avoid creating async error handler 
+express - fileupload - to upload a file
+express - rate - limit
+helmet
+http - status - codes
+jsonwebtoken
+lodash
+mongoose
+morgan
+nodemailer
+xss - clean
